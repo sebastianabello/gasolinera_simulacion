@@ -27,7 +27,7 @@ El objetivo de la simulación es observar:
 ### 1. Clona el repositorio
 ```bash
 
-git clone https://github.com/tu_usuario/gasolinera_simulacion.git
+git clone https://github.com/sebastianabello/gasolinera_simulacion.git
 cd gasolinera_simulacion
 ```
 ### 2. Recomiendo crear un entorno virtual 
