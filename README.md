@@ -47,7 +47,7 @@ pip install -r requirements.txt
 Ejecuta el siguiente comando para lanzar el dashboard:
 ```bash
 
-streamlit run app.py
+streamlit run main.py
 ```
 ---
 
